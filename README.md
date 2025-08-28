@@ -13,7 +13,9 @@ This repository contains the code from our paper
 
 > Jakob, Fabian, and Andrea Iannelli. "A Linear Parameter-Varying Framework for the Analysis of Time-Varying Optimization Algorithms." arXiv preprint. arXiv:2501.07461 (2025). 
 
-**This repo is work in progress.** We will add more refined functionalities and improvements for numeric stability. For now you can use it to play around recreate the plots from the manuscript.
+** **This repo is work in progress!** ** 
+
+We will add more refined functionalities and improvements for numeric stability. For now you can use it to play around recreate the plots from the manuscript.
 
 ## Installation
 To install all relevant packages execute 
