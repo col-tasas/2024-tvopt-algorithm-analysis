@@ -33,6 +33,31 @@ Demonstrates the use of the repo; reproduces the plots in the paper.
 
 `tracking_bounds.ipynb`: Certified tracking error bounds for a given objective and algorithm
 
+## Repository Structure
+
+```
+src/
+├── tracking_certificates.ipynb
+├── tracking_bounds.ipynb
+├── lib/
+│   ├── algorithms/
+│   │   ├── unconstrained.py
+│   │   └── constrained.py
+│   ├── analysis/
+│   │   ├── lure.py
+│   │   ├── lyapunov.py
+│   │   ├── polytope.py
+│   │   ├── solver.py
+│   │   └── run_solver.py
+│   ├── simulation/
+│   │   ├── algorithm.py
+│   │   ├── objectives.py
+│   │   └── simulate.py
+│   └── utils/
+│       └── plot.py
+└── tests/
+```
+
 ## Running Tests
 
 ```bash
