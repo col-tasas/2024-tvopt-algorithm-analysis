@@ -29,9 +29,9 @@ pip install Mosek
 
 Demonstrates the use of the repo; reproduces the plots in the paper.
 
-### `tracking_certificates.ipynb`: Algorithm certificates across problem parameters
+`tracking_certificates.ipynb`: Algorithm certificates across problem parameters
 
-### `tracking_bounds.ipynb`: Certified tracking error bounds for a given objective and algorithm
+`tracking_bounds.ipynb`: Certified tracking error bounds for a given objective and algorithm
 
 ## Running Tests
 
