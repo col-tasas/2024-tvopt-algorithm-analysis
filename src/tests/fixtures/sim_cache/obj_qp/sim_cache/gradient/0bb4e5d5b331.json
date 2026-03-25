@@ -1,0 +1,20 @@
+{
+  "T": 100,
+  "algo": "gradient",
+  "cache_schema": 1,
+  "sens": {
+    "c1": 412.45245924,
+    "c2": 20.3089256,
+    "lambdas": [
+      0.38251539
+    ],
+    "rho": 0.87,
+    "sensitivity_f": 0.38251539,
+    "sensitivity_g": 0.72893442,
+    "sensitivity_x": 1.58951291
+  },
+  "x0": [
+    5.0,
+    5.0
+  ]
+}
